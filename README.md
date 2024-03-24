@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub Repository 👋, I'm Chia Yuan Jun</h1>
-<h3 align="center"> I am currently a student studying Computer Science with a keen interest in software development. Here, I showcase my journey as an aspiring software developer, sharing projects, code snippets, and experiments that reflects my passion for technology and programming. </h3>
+<h3 align="left"> I am currently a student studying Computer Science with a keen interest in software development. Here, I showcase my journey as an aspiring software developer, sharing projects, code snippets, and experiments that reflects my passion for technology and programming. </h3>
 
 - 🔭 I’m currently working on **Portfolio projects**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chia yuan jun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chia yuan jun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chia-yuan-jun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chia yuan jun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
