@@ -19,7 +19,7 @@ I am currently a student studying Computer Science with a keen interest in softw
 <br>
 
 ## Get in Touch
-I am open to collaboration, feedback, and discussions. Feel free to reach out to me via [GitHub](https://github.com/chiayuanjun2000) or connect with me on [LinkedIn](https://www.linkedin.com/in/chia-yuan-jun) if you'd like to collaborate on a project or just have a chat about technology.
+I am open to collaboration, feedback, and discussions. Feel free to reach out to me via [GitHub](https://github.com/cyuanjun) or connect with me on [LinkedIn](https://www.linkedin.com/in/chia-yuan-jun) if you'd like to collaborate on a project or just have a chat about technology.
 <br><br>
 
 ## How to Get Started
